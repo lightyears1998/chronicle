@@ -70,12 +70,24 @@ Github Notebook + Chronicle + WizNote
 
 #### 极客/算法训练
 
+以世界顶尖程序员水平为目标。
+
 - 使用目标语言完成 LeetCode 题目并整理。
 - 准时参加每期 LeetCode 竞赛。
+
+- [LeetCode 题单](https://leetcode-cn.com/circle/article/48kq9d/)
+- <https://leetcode-cn.com/problems/simplify-path/>
+- <https://github.com/greyireland/algorithm-pattern>
+- 王争：极客时间算法课程
+- <https://github.com/labuladong/fucking-algorithm>
+- <https://mp.weixin.qq.com/s/EFoI2SJYcwW1aRGuelUmTA>
+- [设计模式](https://leetcode-cn.com/leetbook/read/design-patterns/99k2th/)
 
 #### 极客/前端技能训练
 
 学习、整理和使用前端技能。
+
+- 学习路线[参考](https://blog.csdn.net/qq_34307082/article/details/104387847)。
 
 #### 极客/筹建技术博客
 
@@ -85,14 +97,21 @@ Github Notebook + Chronicle + WizNote
 
 学习 Golang、Node.js 并了解其他语言。
 
+- 学习路线[参考](https://github.com/kamranahmedse/developer-roadmap)。
 - 在招聘网站上寻找心仪的职位，然后练习相关技能。
 - 做一些拿得出手的作品。
 
+#### 工作能力训练/Snippet Flow
+
+- 原型设计
+- 架构设计
+- 代码工作
+
 #### 工作能力训练/Cool Corpus
 
-#### 刻刻账本
+#### 工作能力训练/刻刻账本
 
-#### DayPrimer
+#### 工作能力训练/DayPrimer
 
 - 借鉴 GTD 等，完善 DayPrimer 的理论。
 
@@ -100,15 +119,32 @@ Github Notebook + Chronicle + WizNote
 
 待定
 
+### 项目
+
+#### 学习 H5
+
+#### 深入 React
+
+#### 制作漫画爬虫
+
+#### 制作帝国时代 AI
+
 ### 拓展
 
 #### 拓展/音乐
 
 打算学琴，具体怎么学待定。
 
+- [简谱记号、音名、唱名的转换](https://www.bilibili.com/video/BV1Fz4y1R7ap?p=5)
+
 #### 拓展/文学
 
-待定。
+记录身边发生的事情，刻画脑海中的印象。
+
+- 2000字/hr | 10k/week
+- 自由写作 28.6 汉字每分钟
+- ［骑士与少女］“你太老了，不适合这个世界了。我看那边的骑士小姐就不错。请你长眠于此吧。”
+- ［编码］ bootstrap！从一个可爱的“反面”形象开始。
 
 #### 拓展/影视
 
