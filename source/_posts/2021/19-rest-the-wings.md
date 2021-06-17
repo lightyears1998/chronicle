@@ -13,7 +13,7 @@ tags:
 
 ### 行动记录
 
-- 待添加。
+- **6月17日** 开始将 DayPrimer 的设计和编程作为主要任务。
 
 ---
 
@@ -34,7 +34,7 @@ tags:
 | 行动类别 | 时间预算 | 备注 |
 | --- | --- | --- |
 | 科研 | 0hr | 暂停；在下一个行动计划中开启“诗歌创作程序”任务 |
-| 工作能力训练 | 84hr | 学习使用 Blender 和 Godot，完成 Guru 教程和 Godot 文档；确定目标职位 Golang 的职位要求并建立学习方案（以米哈游 Golang 工程师为例）；Snippet Flow |
+| 工作能力训练 | 84hr | 进行 DayPrimer 的设计和编程；学习使用 Blender 和 Godot，完成 Guru 教程和 Godot 文档；确定目标职位 Golang 的职位要求并建立学习方案（以米哈游 Golang 工程师为例）；Snippet Flow |
 | 拓展 | 12hr | Halo；冰汽时代；ReFaith Story |
 
 ### 知识管理
