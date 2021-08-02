@@ -40,7 +40,7 @@ tags:
 | 创造/Blender | 5hr | 完成 Guru 教程 |
 | 创作/Godot | 5hr | 完成小项目 |
 | 拓展/游戏 | 3hr | 《冰汽时代》 |
-| 拓展/游戏 | 3hr | 《HITMAN2》 |
+| 拓展/游戏 | 3hr | 《Disco Elysium》 |
 
 ### 知识管理
 
