@@ -202,6 +202,12 @@ Github Notebook 和 WizNote
 | TitanFall 2 | 20hr | 单人战役 |
 | 911 Operator | 20hr | |
 | Shadow Tactics: Blade of Shogun | | 挑战和奖章 |
+| Anno 1800 | 100hr | |
+| 刺客信条：黑旗 | | |
+| 刺客信条：大革命 | | |
+| 刺客信条编年史：中国 | | |
+| 幽灵行动：荒野 | | |
+| Watch Dogs | | |
 
 以下是视觉小说类型的游戏：
 
