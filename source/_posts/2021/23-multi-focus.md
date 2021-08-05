@@ -21,6 +21,7 @@ tags:
 - *8月3日* 《HIT Man 2》 是个好游戏，但是《Disco Elysium》是基于大量文字的游戏，且文本存在翻译腔问题，因此需要保持注意力在一段时间内持续进行。在下个行动周期中，暂时放下其他游戏而转向《Disco Elysium》。
 - *8月3日* 《Disco Elysium》实在是太难了，大量的文本细节涌入，头疼欲裂，遂转入《冰汽时代》，开始回到两个月前开始的坑。预计《冰汽时代》的攻关将跨越两到三个月。
 - *8月4日* 行动计划的第四天，行动进度与预期不符。加入“旧笔记本电脑改造”任务，计划更新为 v2 版本。
+- *8月5日* 取消《冰汽时代》攻关。
 
 ---
 
@@ -43,7 +44,8 @@ tags:
 | 创造/Blender | 0/5hr | 完成 Guru 教程 |
 | 创作/Godot | 0/5hr | 完成小项目 |
 | 极客 | 0/4hr | v1070笔记本改造 |
-| 拓展/游戏 | 0/3hr | 《冰汽时代》 |
+| 工作能力训练 | 0/4hr | DayPrimer 编程 |
+| 拓展 | 0/2hr | ako_Keng 《恐怖之歌》 |
 
 ### 知识管理
 
@@ -182,55 +184,61 @@ Github Notebook 和 WizNote
 
 | 项目 | 预计时长 | 备注 |
 | --- | --- | --- |
-| Disco Elysium | 30hr | |
-| R.U.S.E | 10hr | |
 | 冰汽时代 | 24hr | |
-| WarGame: Red Dragon | 40hr | |
-| Metro: Last Light Redux | 24hr | |
-| Surviving Mars | 40hr | |
-| ReLief & TrymenT | 16hr | |
-| CODE VEIN | 40hr | |
-| ScarletNexus | 40hr | |
 | 巫师3 | 100hr | |
-| GTA5 | 64hr | |
 | Mount & Blade: BannerLord | 100hr | 一周目 |
 | AoE DE II | 120hr | 单人战役困难难度 |
-| AoE DE III | 120hr | 单人战役困难难度 |
 | CoH2 | 60hr | 单人战役困难难度 |
-| BF1 | 20hr | 单人战役困难难度 |
 | HitMan 2 | 80hr | 单人战役推荐任务故事 |
-| TitanFall 2 | 20hr | 单人战役 |
-| 911 Operator | 20hr | |
-| Shadow Tactics: Blade of Shogun | | 挑战和奖章 |
-| Anno 1800 | 100hr | |
-| 刺客信条：黑旗 | | |
-| 刺客信条：大革命 | | |
-| 刺客信条编年史：中国 | | |
-| 幽灵行动：荒野 | | |
-| Watch Dogs | | |
 
 以下是视觉小说类型的游戏：
 
 | 项目 | 预计时长 | 备注 |
 | --- | --- | --- |
+| ReLief & TrymenT | 16hr | |
 | 关于我被小学女生绑架这件事 | 2hr | |
 | Orwell | 4hr | |
 | RelieF Tryment | 30hr | |
 | 苍蓝彼端的四重奏 | 30hr | |
 | 多娜多娜 一起干坏事吧 | 30hr | |
 | 近月少女的礼仪 | | |
+| Koichoco | | |
+| 寻找失去的未来 | |
 
 以下是长期更新的游戏：
 
 | 项目 | 预计时长 | 备注 |
 | --- | --- | --- |
-| 原神 | 40hr+ | 《献给某旅行者的提瓦特大陆游记》 |
+| 原神 | 40hr+ | 《某旅行者的提瓦特大陆游记》 |
 | 戴森球计划 | 20hr+ | |
 
 以及时长任意的休闲游戏若干：
 
 1. MuseDash
 2. Euro Truck Simulator 2
+
+暂不考虑的游戏：
+
+| 项目 | 预计时长 | 备注 |
+| --- | --- | --- |
+| GTA5 | 64hr | |
+| BF1 | 20hr | 单人战役困难难度 |
+| TitanFall 2 | 20hr | 单人战役 |
+| CODE VEIN | 40hr | |
+| ScarletNexus | 40hr | |
+| AoE DE III | 120hr | 单人战役困难难度 |
+| Disco Elysium | 30hr | |
+| R.U.S.E | 10hr | |
+| WarGame: Red Dragon | 40hr | |
+| Metro: Last Light Redux | 24hr | |
+| Anno 1800 | 100hr | |
+| 刺客信条：黑旗 | | |
+| 刺客信条：大革命 | | |
+| 刺客信条编年史：中国 | | |
+| 幽灵行动：荒野 | | |
+| Watch Dogs | | |
+| 911 Operator | 20hr | |
+| Shadow Tactics: Blade of Shogun | | 挑战和奖章 |
 
 #### 拓展/日语
 
