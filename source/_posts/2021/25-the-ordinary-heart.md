@@ -1,12 +1,12 @@
 ---
-title: 回归平常心
-date: 2021-08-29
+title: 平常心
+date: 2021-09-05
 categories:
 - 短期行动计划
 tags:
 ---
 
-`The Ordinary Heart` 保持平常心。
+`The Ordinary Heart` 平常心
 
 - **时间** 9月5日至9月11日，为期一周。
 - **目的** 实践“基础循环”。
@@ -46,7 +46,7 @@ tags:
 | 科研 | 30hr | 0hr | |
 | 工作 | 6hr | 0hr | |
 | 极客 | 2hr/d = 14hr | 0hr | 1.5hr 算法训练（其中0.5hr用于复习和总结。） |
-| 拓展 | 2hr | 0hr | 1hr 用于观摩，1hr Godot |
+| 拓展 | 2hr | 0hr | 1hr 用于 Godot；剩余 1hr 用于其他活动。 |
 
 ### 知识管理
 
