@@ -15,6 +15,7 @@ tags:
 
 - *9月5日* 制定行动计划。
 - *9月6日* 细化行动计划。
+- *9月8日* 认定 Godot、Blender、LMMS 等部分“创造”部分确有必要从“拓展”分离。
 
 ---
 
@@ -46,7 +47,8 @@ tags:
 | 科研 | 30hr | 0hr | |
 | 工作 | 6hr | 0hr | |
 | 极客 | 2hr/d = 14hr | 0hr | 1.5hr 算法训练（其中0.5hr用于复习和总结。） |
-| 拓展 | 2hr | 0hr | 1hr 用于 Godot 实践或查看源码；剩余 1hr 用于其他事务。 |
+| 创作 | 2hr | 0hr | 写作、绘画、制作音乐和建模等。 |
+| 拓展 | 2hr | 0hr | 包括观看电影、进行游戏等的其他用于拓展视野和能力的行动。 |
 
 ### 知识管理
 
@@ -138,27 +140,29 @@ Github Notebook 和 WizNote。
 
 初定使用 Hexo 管理技术博客。
 
-### 拓展
+### 创作
 
-#### 拓展/Godot
-
-#### 拓展/Blender
-
-学习并应用 Guru 的[教程](https://www.bilibili.com/video/BV1az4y1X7Tr)。
-
-#### 拓展/音乐
-
-打算学琴，具体怎么学待定。
-
-- [简谱记号、音名、唱名的转换](https://www.bilibili.com/video/BV1Fz4y1R7ap?p=5)
-
-#### 拓展/文学
+#### 创作/写作
 
 记录身边发生的事情，刻画脑海中的印象。
 
 - 目标键入速度 2000字/hr
 
-子项目：
+#### 创作/Godot
+
+#### 创作/Blender
+
+学习并应用 Guru 的[教程](https://www.bilibili.com/video/BV1az4y1X7Tr)。
+
+#### 创作/制作音乐
+
+打算学琴，具体怎么学待定。
+
+- [简谱记号、音名、唱名的转换](https://www.bilibili.com/video/BV1Fz4y1R7ap?p=5)
+
+### 拓展
+
+#### 拓展/文学
 
 - 观摩和学习《异界妄想》
 
