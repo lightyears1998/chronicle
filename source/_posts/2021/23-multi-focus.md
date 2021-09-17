@@ -1,5 +1,5 @@
 ---
-title: 多元聚焦 - Multi-Focus v5（失败）
+title: 多元聚焦 - Multi-Focus v5
 date: 2021-08-01
 categories:
 - 短期行动计划
