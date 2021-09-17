@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-`The Ordinary Heart` 平常心
+`The Ordinary Heart`
 
 - **时间** 9月12日至9月18日，为期一周。
 - **目的** 实践“基础循环”。
