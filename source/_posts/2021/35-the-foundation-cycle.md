@@ -55,7 +55,7 @@ tags:
 | 非核心行动 | 时间预算（hr） | 进度（hr） | 备注 |
 | --- | --- | --- | --- |
 | 科研 | 6 | 0 | |
-| 工作 | 4 | 0 | 经营 hacks.qfstudio.net：自制　Hexo　主题 hexo-theme-alisha |
+| 工作 | 4 | 0 | 完善 CoolCorpus 软件；经营 hacks.qfstudio.net：自制　Hexo　主题 hexo-theme-alisha |
 | 极客 | 8(2/d) + 2 | 0 | LeetCode 算法题训练；查看经典源码（TCL/TK） |
 | 创作 | 2 | 0 | 写作练习《Moonlight Upon》；制作 tiny-army-chess |
 | 拓展 | 2 | 0 | 进行日语语音训练；将《十字军之王3》中的塞维克斯家族进行到1453年 |
