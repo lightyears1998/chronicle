@@ -1,6 +1,6 @@
 ---
 title: 攻克顽疾 <Panzer vor>
-date: 2021-11-29
+date: 2021-12-3
 categories:
 - 短期行动计划
 tags:
