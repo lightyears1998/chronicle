@@ -31,9 +31,9 @@ tags:
 | 核心/方舟计划 | - | - | 寻找机会展开交流 |
 | 重生 | 18 | 0 | 在疾病冲击下建立新的生活秩序 |  |
 | 科研 | 10 | 0 | 处理课程，其他方面暂时腾不出手 |  |
-| 极客 | 33 | 0 | 制作 DappKingEngine；制作 polymorphism-clerk |
-| 工作 | 0 | 0 | 实验制作技术博客主题 |
-| 创作 | 0 | 0 | 学习经典曲目；第一首 SynthV；Godot 围棋；Godot 象棋；制作 dkpk |
+| 极客 | 20 | 0 | 制作 DappKingEngine；制作 polymorphism-clerk |
+| 工作 | 4 | 0 | 实验制作技术博客主题 |
+| 创作 | 4 | 0 | 学习经典曲目；第一首 SynthV；Godot 围棋；Godot 象棋；制作 dkpk |
 | 拓展 | 2(2/wk) | 0 | 第一探索队列 |
 
 ---
