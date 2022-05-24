@@ -33,7 +33,7 @@ tags:
 | 科研 | 25 (5/d) | 0 | 在导师指导的方向上学习 |
 | 职业 | 7.5 (1.5/d) | 0 | 区块链程序 |
 | --- |
-| 极客 | 5 (1/d) | 0 | 制作 wordpress-theme-erica 和 hexo-theme-alisha |
+| 极客 | 5 (1/d) | 0 | Akane0 制作；制作 wordpress-theme-erica 和 hexo-theme-alisha |
 | 日语学习 | 2.5 (0.5/d) | 0 | 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具 |
 | 游戏 | 2.5 (0.5/d) | 0 | GDQuest 学习 |
 | 创作 | 2.5 (0.5/d) | 0 | 为 Lansiny 的游戏创作配乐 |
