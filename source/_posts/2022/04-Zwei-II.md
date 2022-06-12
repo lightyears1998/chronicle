@@ -36,7 +36,7 @@ tags:
 | 极客 | 2 (1/d) | 0 | Akane0 制作；制作 wordpress-theme-erica 和 hexo-theme-alisha |
 | 日语学习 | 1 (0.5/d) | 0 | 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具 |
 | 游戏 | 1 (0.5/d) | 0 | GDQuest 学习 |
-| 创作 | 1 (0.5/d) | 0 | 进行 DKPK 的创作活动；为 Lansiny 的游戏创作配乐 |
+| 创作 | 1 (0.5/d) | 0 | 进行 DKPK 的创作活动；为 Lansiny 的游戏创作配乐；自由探索音乐与绘画 |
 
 ---
 
