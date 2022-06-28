@@ -1,6 +1,6 @@
 ---
-title: Ein
-date: 2022-06-27
+title: Halb
+date: 2022-06-28
 categories:
 - 短期行动计划
 tags:
