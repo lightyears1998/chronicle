@@ -1,6 +1,6 @@
 ---
-title: A Cycle
-date: 2022-06-29
+title: A Cycle 1st
+date: 2022-09-21
 categories:
 - 短期行动计划
 tags:
@@ -33,7 +33,7 @@ tags:
 | 非核心行动 | 时间预算（hr） | 备注 |
 | --- | --- | --- | --- |
 | 科研 | 0 (5/d) | 在导师指导的方向上学习 |
-| 职业技能 | 0 (1.5/d) | 制作单词记忆工具 |
+| 职业技能 | 0 (1.5/d) | LeetCode 训练；学习开发板；制作单词记忆工具 |
 | --- |
 | 极客 | 0 (1/d) | Akane0 制作；制作 wordpress-theme-erica 和 hexo-theme-alisha |
 | 日语学习 | 0 (0.5/d) | 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具 |
