@@ -1,15 +1,15 @@
 ---
-title: A Cycle I
-date: 2022-09-26
+title: A Cycle II
+date: 2022-10-07
 categories:
 - 短期行动计划
 tags:
 ---
 
 - **时间** 适用于较长一段时间。
-- **状态** 被第二阶段取代。
+- **状态** 活跃。
 
-“研究生”生活从现在开始了。
+继承过去，重视现在，迈向未来。
 
 ---
 
@@ -25,16 +25,17 @@ tags:
 
 非核心行动每日预算 (12 × 0.75 = 9) hr/d
 
-社会工作时间和个人自由时间分配比例 6.5:2.5
+社会工作时间和个人自由时间分配比例 6:3
 
 社会工作时间
 
-- 科研 5.5hr/d
+- 科研 5hr/d
 - 科研辅助 1hr/d 制作有助于科研方向的工具
 
 个人自由时间
 
-- 极客 1hr 更新 A Cycle 功能；制作 Akane0；制作 wordpress-theme-erica 和 hexo-theme-alisha
+- 整理 1hr 整理“已经拥有”的知识
+- 极客 0.5hr 更新 A Cycle 功能；制作 Akane0；制作 wordpress-theme-erica 和 hexo-theme-alisha
 - 日语学习 0.5hr 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具
 - 游戏 0.5hr
 - 创作 0.5hr 音乐、绘画、建模、写作和游戏开发
