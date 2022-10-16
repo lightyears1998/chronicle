@@ -35,7 +35,7 @@ tags:
 个人自由时间
 
 - 整理 1hr 整理“已经拥有”的知识
-- 极客 0.5hr 更新 A Cycle 功能；制作 Akane0；制作 wordpress-theme-erica 和 hexo-theme-alisha
+- 极客 0.5hr 在 MAUI 上开发 A Cycle 功能；制作 Akane0；搭建技术博客和生活博客：浏览开源的博客主题并制作 wordpress-theme-erica 和 hexo-theme-alisha
 - 日语学习 0.5hr 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具
 - 游戏 0.5hr
 - 创作 0.5hr 音乐、绘画、建模、写作和游戏开发；熟悉 Godot API；制作 HorizonT
