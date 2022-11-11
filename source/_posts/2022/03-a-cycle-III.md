@@ -1,13 +1,13 @@
 ---
-title: A Cycle II
-date: 2022-10-07
+title: A Cycle III
+date: 2022-11-11
 categories:
 - 短期行动计划
 tags:
 ---
 
 - **时间** 适用于较长一段时间。
-- **状态** 被第三阶段取代。
+- **状态** 活跃。
 
 继承过去，重视现在，迈向未来。
 
@@ -27,18 +27,19 @@ tags:
 
 社会工作时间和个人自由时间分配比例 6:3
 
-社会工作时间
+社会工作时间：
 
 - 科研 5hr/d
 - 科研辅助 1hr/d 制作有助于科研方向的工具
 
-个人自由时间
+个人自由时间：
 
-- 整理 1hr 整理“已经拥有”的知识
+- 整理 0.5hr 整理“已经拥有”的知识
 - 极客 0.5hr 在 MAUI 上开发 A Cycle 功能；制作 Akane0；搭建技术博客和生活博客：浏览开源的博客主题并制作 wordpress-theme-erica 和 hexo-theme-alisha
 - 日语学习 0.5hr 制作假名记忆工具和基于来自 BangDream 等歌词的记忆工具
-- 游戏 0.5hr
-- 创作 0.5hr 音乐、绘画、建模、写作和游戏开发；熟悉 Godot API；制作 HorizonT
+- 写作 0.5hr *写作和编辑*
+- 音乐 0.5hr 进行一年左右的 *打谱练习* （至2023/12）；尝试写自己的旋律。
+- 探索 0.5hr 游戏；建模；熟悉 Godot API；制作 HorizonT。
 
 ---
 
@@ -48,7 +49,7 @@ tags:
 
 ### 极客
 
-**目标** 学习、整理、思考和进步。
+目标：学习、整理、思考和进步。
 
 - 为 hacks.qfstudio.net 制作自定义主题 hexo-theme-alisha
 - 以 next.js 为基础的技术博客主题
@@ -57,35 +58,35 @@ tags:
 - 学习使用 Godot
 - Godot 象棋
 
-### 游戏
+### 写作
 
-**目标** 探索和发现。
+- *写作和编辑* 在 0.5hr 内写作 1000 字或编辑 5000 字。
 
-- GDQuest 学习
-- github.com/lightyears1998/classic-tank-battle
-- 钢铁雄心 KR。德意志帝国。
-- 《Prey 掠食》
-- 可以关注 Lansiny 的 CopyWriting 项目
-- 制作 DKPK
+### 音乐
 
-### 创作
+- *打谱练习* 将自己感兴趣的歌的歌谱输入宿主软件，主要目标是训练读谱能力和熟悉宿主软件，次要目标是拓展知识库。（OneDrive/WizNote）
 
-**目标** 学习新的语言知识、文字创作、绘画、音乐制作、游戏设计和建模等。
-
-- 为 Lansiny 的游戏创作配乐
-
-建模：
-
-- 学习并应用 Guru 的[教程](https://www.bilibili.com/video/BV1az4y1X7Tr)。
-
-音乐：
-
-- 建立自己的音程/和弦/旋律库
+- 建立自己的音程/和弦/旋律知识库
   - 分类学习自己喜欢的音乐。
   - 在 MuseScore 以及其他网站上学习并整理到自己的库中。
 - 熟悉乐器
   - 经典歌曲/番剧中的乐器
 - 使用 SV 和 FL 进行创作
+
+未来：
+
+- 为 Lansiny 的游戏创作配乐
+
+### 探索
+
+目标：探索和发现。
+
+- GDQuest 学习
+- 制作 DKPK
+
+建模：
+
+- 学习并应用 Guru 的[教程](https://www.bilibili.com/video/BV1az4y1X7Tr)。
 
 ---
 
