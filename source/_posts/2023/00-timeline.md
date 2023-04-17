@@ -29,4 +29,5 @@ tags:
 
 - **4月3日** “活力循环综合挑战”与TrymenT计划合并，现改称为“TrymenT挑战”。
 - **4月8日** TrymenT挑战重新开始。希望这能成为改变人生态度的起始点。
-- **4月15日** 因甲流病情推迟的 TrymenT 挑战在病情痊愈并完成《人生规划@23》后重新开始。这是一个重大的转折点。
+- **4月15日** 因甲流病情推迟的 TrymenT 挑战在病情痊愈并完成《人生规划@23》后重新开始。这是关于我自己的一个重大的转折点。
+- **4月17日** *游戏制作* 完成[BlenderGuru的甜甜圈教程](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)，制作了自己的第一个3D甜甜圈模型。
