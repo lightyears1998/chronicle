@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-自9月19日起，试运行7日，随后长期执行。
+自9月19日起，计划试运行7日，随后长期执行。
 
 ## 健康目标
 
@@ -48,7 +48,7 @@ tags:
 | 语言综合 | 1hr/cycle | |
 | 科研工作 | 6hr/day | |
 | 职业准备 | 2hr/day | |
-| MetaDream 项目 | 纳入职业准备，1hr/day |
+| MetaDream | 纳入职业准备，1hr/day |
 | 公开交流 | 1hr/cycle |
 | 绘画创作 | 1hr/cycle |
 | 音乐创作 | 1hr/cycle |
