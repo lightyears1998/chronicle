@@ -1,5 +1,5 @@
 ---
-title: 启航
+title: 新章
 date: 2023-09-19
 categories:
 - 长期行动计划
