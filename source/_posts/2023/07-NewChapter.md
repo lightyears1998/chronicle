@@ -45,10 +45,10 @@ tags:
 
 | 目标 | 时间安排 | 备注 |
 | --- | --- | --- |
-| 语言综合 | 1hr/cycle | |
-| 科研工作 | 6hr/day | |
-| 职业准备 | 2hr/day | |
-| MetaDream | 纳入职业准备，1hr/day |
+| 语言综合 | 1hr/day |
+| 程序专精 | 1hr/day |
+| 科研工作 | 4hr/cycle |
+| 职业准备 | 2hr/cycle |
 | 公开交流 | 1hr/cycle |
 | 绘画创作 | 1hr/cycle |
 | 音乐创作 | 1hr/cycle |
