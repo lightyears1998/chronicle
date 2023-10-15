@@ -2,7 +2,7 @@
 title: 新章
 date: 2023-10-10
 categories:
-- 行动计划
+- 短期计划
 tags:
 ---
 
