@@ -50,6 +50,4 @@ tags:
 | 科研工作 | 4hr/cycle |
 | 职业准备 | 2hr/cycle |
 | 公开交流 | 1hr/cycle |
-| 绘画创作 | 1hr/cycle |
-| 音乐创作 | 1hr/cycle |
-| 游戏创作 | 1hr/cycle |
+| 艺术创作 | 1hr/cycle |
