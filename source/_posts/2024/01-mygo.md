@@ -46,7 +46,9 @@ tags:
 
 ## 工作目标
 
-| 类别 | 安排 | 项目 | 备注 |
+完成 MetaDream 蓝湖一期的施工。
+
+<!-- | 类别 | 安排 | 项目 | 备注 |
 | --- | --- | --- | --- |
 | 语言综合 | 1hr/day | 练习汉语、英语和日语 |
 | 编程大师 | 1hr/day | 算法练习
@@ -55,4 +57,4 @@ tags:
 | 职业准备 | 6hr/iter | 迭代 MetaDream |
 | 公开交流 | 1hr/iter | 编写 wordpress-theme-yuu |
 | 艺术创作 | 1hr/iter | 打造风格 |
-| 艺术创作 | 8hr/iter | 编写《DKPK》|
+| 艺术创作 | 8hr/iter | 编写《DKPK》| -->
