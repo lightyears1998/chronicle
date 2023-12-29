@@ -1,5 +1,5 @@
 ---
-title: It's MyGO!
+title: Transition
 date: 2023-12-23
 categories:
 - 短期计划
