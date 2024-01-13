@@ -62,4 +62,4 @@ tags:
 | 职业准备 | 6hr/iter | 迭代 MetaDream |
 | 公开交流 | 1hr/iter | 编写 wordpress-theme-yuu |
 | 艺术创作 | 1hr/iter | 打造风格 |
-| 艺术创作 | 8hr/iter | 编写《DKPK》| -->
+| 艺术创作 | 8hr/iter | 通过广泛的学习并有主见地扎实推进《DKPK》| -->
