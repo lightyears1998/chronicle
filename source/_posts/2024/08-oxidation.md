@@ -43,6 +43,7 @@ tags:
 ## 工作目标
 
 - 协助开展多项学术辅助活动（纸丸、斌斌、Corhow）。
+- 完成 Kofunie。
 - 施工 MetaDream 蓝湖一期。
 - 训练嵌入式软件开发相关技能。
 - 如推进状态良好，则继续进行 DKPK 和 PaperSudoku。
