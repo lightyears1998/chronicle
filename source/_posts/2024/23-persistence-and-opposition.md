@@ -86,7 +86,7 @@ tags:
 | 艺术创作 | 基于 Roland FP30x 学习音乐 | 每日0.5hr |
 | 编程巧匠 | 基于 Avalonia 建立新版 EgoPrimer | 轮转8hr |
 | 编程巧匠 | 完成 PaperSudoku 的初始版本 | 轮转8hr |
-| 编程巧匠 | 基于 Godot 建立 LunarFlames 剧本编辑器 | 轮转1hr |
+| 编程巧匠 | 基于 Godot 建立 LunarFlames 剧本编辑器 | 轮转8hr |
 
 <!-- 等待中的工作目标：
 - ACycle 新版本（详见 GitHub 需求）
