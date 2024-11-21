@@ -87,8 +87,8 @@ tags:
 | 类别 | 目标 | 预期时间 |
 | --- | --- | --- |
 | “现代人”之雇佣劳动 | 嵌入式软件方面工作（提升技能水平并换取工资） | 工作日8hr |
-| 艺术创作 | 基于 Roland FP30x 学习音乐 | （高优先）每日0.5hr |
-| 编程巧匠 | 基于 Avalonia 建立新版 EgoPrimer | 其他全部时间 |
+| 艺术创作 | 基于 Roland FP30x 学习音乐 | 每日0.5hr |
+| 编程巧匠 | 基于 Avalonia 建立新版 EgoPrimer | 其余时间 |
 <!-- | 编程巧匠 | 完成 PaperSudoku 的初始版本 | 轮转8hr |
 | 编程巧匠 | 基于 Godot 建立 LunarFlames 剧本编辑器 | 轮转8hr | -->
 
